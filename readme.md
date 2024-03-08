@@ -6,4 +6,5 @@ requirements:
 pyside6
 cvxpy
 yamlordereddictloader
+srdfdom 需要下载编译
 等等
